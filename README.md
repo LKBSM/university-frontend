@@ -39,7 +39,7 @@ npm start
 
 3. Open your browser and navigate to:
 ```
-http://localhost:3000
+https://university-frontend-try.up.railway.app/professors
 ```
 
 ## Available Scripts
